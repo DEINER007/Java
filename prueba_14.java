@@ -21,7 +21,7 @@ public class prueba_14 {
             acomulador = acomulador + array [i];
             System.out.print (" + " + array [i]);
         }
-        System.out.println (" = " + acomulador);
+        System.out.print (" = " + acomulador + "\n");
     }
     private static void maxArray () {
         System.out.print ("Maximo= ");
